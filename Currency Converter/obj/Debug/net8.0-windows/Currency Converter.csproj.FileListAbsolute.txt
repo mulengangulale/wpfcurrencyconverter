@@ -3,16 +3,21 @@ C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\bin\
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.runtimeconfig.json
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.dll
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0-windows\Currency Converter.pdb
+C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.csproj.AssemblyReference.cache
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter_MarkupCompile.cache
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter_MarkupCompile.lref
+C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\App.baml
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.g.resources
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.AssemblyInfoInputs.cache
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.AssemblyInfo.cs
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.sourcelink.json
+C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency.F9AF2F12.Up2Date
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.dll
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\refint\Currency Converter.dll
 C:\Users\Mulenga Ngulale\source\repos\Currency Converter\Currency Converter\obj\Debug\net8.0-windows\Currency Converter.pdb

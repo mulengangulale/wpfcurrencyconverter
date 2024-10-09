@@ -20,5 +20,20 @@ namespace Currency_Converter
         {
             InitializeComponent();
         }
+
+        private void Convert_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void NumberValidationTextBox(object sender, TextCompositionEventArgs e)
+        {
+
+        }
     }
 }
