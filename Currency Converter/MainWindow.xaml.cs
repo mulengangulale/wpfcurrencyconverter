@@ -57,7 +57,7 @@ namespace Currency_Converter
 
             if (string.IsNullOrEmpty(txtCurrency.Text))
             {
-                MessageBox.Show("Please Enter a value");
+                MessageBox.Show("Please a enter a value. This should not be empty");
                 txtCurrency.Focus();
             }
             else if (cmbFromCurrency.SelectedIndex == 0 || cmbFromCurrency.SelectedValuePath == null)
